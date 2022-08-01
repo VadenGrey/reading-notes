@@ -1,4 +1,5 @@
 # Reading notes Repo
+<img src="https://github.com/VadenGrey/reading-notes/blob/main/IMG_E0999%20(2).JPG" alt="me" width="200"/>
 My name is _Mathieu roberts_, I recently got out of the Army, currently residing in KY, and my favorite color is Maroon
 
 ## The Growth Mindset™
