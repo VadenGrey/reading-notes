@@ -6,7 +6,7 @@ A growth mindset is the opposite of a fixed mindset where instead of shying away
 
 ### How to maintain said Growth Mindset™
 
-* not good at starting things
+* You will always start out not being good at things
 * Failure is an opportunity to grow
 * Trying a different strategy will help get you through a challenge
 
