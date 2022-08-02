@@ -1,5 +1,5 @@
 # Reading notes Repo
-My name is _Mathieu roberts_, I recently got out of the Army, currently residing in KY, and my favorite color is Maroon
+My name is _Mathieu Roberts_, I recently got out of the Army, currently residing in KY, and my favorite color is Maroon
 
 ## The Growth Mindset™
 A growth mindset is the opposite of a fixed mindset where instead of shying away from challenges and saying: "I can't do this", you embrace challenges for an opportunity to grow and become smarter while beginning to say: "I will do this" 
