@@ -11,3 +11,5 @@ A growth mindset is the opposite of a fixed mindset where instead of shying away
 * Trying a different strategy will help get you through a challenge
 
 [My github repo](https://vadengrey.github.io/reading-notes/)
+<br>
+[CodeFellows Notes]()
