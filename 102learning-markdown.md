@@ -22,7 +22,7 @@ Let's say i wanted to make a heading in HTML i would write:
 In markdown I would simply write:
 
 ```
-#this is a heading
+# this is a heading
 ```
 
 ### Resources for further knowledge
