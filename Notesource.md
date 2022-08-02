@@ -5,3 +5,6 @@
     2. [IDE's and the Terminal](https://vadengrey.github.io/reading-notes/IDEs-and-the-Terminal)
 
 2. 
+
+
+[Back to main page](https://vadengrey.github.io/reading-notes/)
