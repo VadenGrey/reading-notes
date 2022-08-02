@@ -24,10 +24,18 @@ In markdown I would simply write:
 ```
 # this is a heading
 ```
+**Here is a reference sheet:** 
+
+![Markdown Cheatsheat](https://static.guides.co/uploads/222/images/Screen%20Shot%202013-10-22%20at%209.38.00%20PM.png)
+
+
+
+
+
 
 ### Resources for further knowledge
 [Basic Markdown Syntax](https://www.markdownguide.org/basic-syntax/)<br>
 [Further in-depth Syntax on Github](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
 
-[Back to main page](https://vadengrey.github.io/reading-notes/) <br>
+[Back to main page](https://vadengrey.github.io/reading-notes/)<br>
 [Back to Notes page](https://vadengrey.github.io/reading-notes/Notesource)
