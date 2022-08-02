@@ -25,6 +25,9 @@ Mkdir - make directory (make new folder)
 Clear - (clears the terminal)
 Touch - (creates a file)
 Tree - (makes a "tree" from files in the terminal)
+~ - shortcut to home directory
+.. - a reference to parent directory
+ls -a - List the contents of a directory, including hidden files.
 
 ```
 
@@ -32,14 +35,23 @@ Tree - (makes a "tree" from files in the terminal)
 Where am i? pwd
 ```
 User@bash: pwd
+/home/name
+User@bash: pwd
+
+```
+What files are present where we are at?
+```
+User@bash: ls
+bin Documents public_html
+User@bash:
 ```
 
+Important Terms:
+Relative path
+- A file or directory location relative to where we currently are in the file system.
 
-
-
-
-
-
+Absolute path
+- A file or directory location in relation to the root of the file system.
 
 [Back to main page](https://vadengrey.github.io/reading-notes/) <br>
 [Back to Notes page](https://vadengrey.github.io/reading-notes/Notesource)
