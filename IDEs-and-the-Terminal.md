@@ -41,5 +41,5 @@ User@bash: pwd
 
 
 
-
-[Back to Notes page]()
+[Back to main page](https://vadengrey.github.io/reading-notes/)
+[Back to Notes page](https://vadengrey.github.io/reading-notes/Notesource)
