@@ -47,11 +47,16 @@ User@bash:
 ```
 
 Important Terms:
+
 Relative path
 - A file or directory location relative to where we currently are in the file system.
 
 Absolute path
 - A file or directory location in relation to the root of the file system.
+
+**Here is a reference sheet**
+
+![commandsheet](https://www.git-tower.com/blog/media/pages/posts/command-line-cheat-sheet/7c0f8706c6-1659451946/command-line-cheat-sheet-large01.png)
 
 [Back to main page](https://vadengrey.github.io/reading-notes/) <br>
 [Back to Notes page](https://vadengrey.github.io/reading-notes/Notesource)
