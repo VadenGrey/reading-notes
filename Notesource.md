@@ -4,7 +4,7 @@
     - [Learning Markdown](https://vadengrey.github.io/reading-notes/102learning-markdown)
     - [IDE's and the Terminal](https://vadengrey.github.io/reading-notes/IDEs-and-the-Terminal)
     - [Revisions in the cloud](https://vadengrey.github.io/reading-notes/revisionsinthecloud)
-    - [HTML basics](https://vadengrey.github.io/reading-notes/html.md)
+    - [HTML basics](https://vadengrey.github.io/reading-notes/html)
 
 
 
