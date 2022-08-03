@@ -5,6 +5,7 @@
     - [IDE's and the Terminal](https://vadengrey.github.io/reading-notes/IDEs-and-the-Terminal)
     - [Revisions in the cloud](https://vadengrey.github.io/reading-notes/revisionsinthecloud)
     - [HTML basics](https://vadengrey.github.io/reading-notes/html)
+    - [Whats's CSS](https://vadengrey.github.io/reading-notes/designwithcss)
 
 
 
