@@ -15,6 +15,13 @@ start off with a wireframe design, draw what you want your website to look like 
 </html>
 ```
 
+**Semantic elements** - tags that clearly describe what they do to the developer an brower like:
+
+```
+<form><article><table>
+
+```
+
 ![reference sheet](https://html.com/wp-content/uploads/html5_cheat_sheet_tags.png)
 
 **Very useful references for HTML:**

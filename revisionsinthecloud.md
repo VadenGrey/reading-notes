@@ -8,10 +8,11 @@ Files in Git can reside in three main states: committed(Data is securely stored 
 ## How to utilize git through the terminal
 
 ```
-git clone "your repo name" 
+git clone "your repo link" 
 
 git add "file name"
 git commit -m "why did you make these changes"
 git push origin main
 git pull origin main
+git status
 ```
