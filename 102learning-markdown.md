@@ -37,5 +37,4 @@ In markdown I would simply write:
 [Basic Markdown Syntax](https://www.markdownguide.org/basic-syntax/)<br>
 [Further in-depth Syntax on Github](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
 
-[Back to main page](https://vadengrey.github.io/reading-notes/)<br>
-[Back to Notes page](https://vadengrey.github.io/reading-notes/Notesource)
+[Back to main page](https://vadengrey.github.io/reading-notes/)

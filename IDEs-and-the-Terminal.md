@@ -58,5 +58,4 @@ Absolute path
 
 ![commandsheet](https://www.git-tower.com/blog/media/pages/posts/command-line-cheat-sheet/7c0f8706c6-1659451946/command-line-cheat-sheet-large01.png)
 
-[Back to main page](https://vadengrey.github.io/reading-notes/) <br>
-[Back to Notes page](https://vadengrey.github.io/reading-notes/Notesource)
+[Back to main page](https://vadengrey.github.io/reading-notes/)

@@ -1,15 +1,17 @@
 # Reading notes Repo
 My name is _Mathieu Roberts_, I recently got out of the Army, currently residing in KY, and my favorite color is Maroon
 
-## The Growth Mindset™
-A growth mindset is the opposite of a fixed mindset where instead of shying away from challenges and saying: "I can't do this", you embrace challenges for an opportunity to grow and become smarter while beginning to say: "I will do this" 
-
-### How to maintain said Growth Mindset™
-
-* You will always start out not being good at things
-* Failure is an opportunity to grow
-* Trying a different strategy will help get you through a challenge
-
 [My github repo](https://vadengrey.github.io/reading-notes/)
-<br>
-[CodeFellows Notes](https://vadengrey.github.io/reading-notes/Notesource)
+
+## Notes from Code Fellows
+
+1. **Class 102**
+    - [Growth Mindset](https://vadengrey.github.io/reading-notes/growthmindset)
+    - [Learning Markdown](https://vadengrey.github.io/reading-notes/102learning-markdown)
+    - [IDE's and the Terminal](https://vadengrey.github.io/reading-notes/IDEs-and-the-Terminal)
+    - [Revisions in the cloud](https://vadengrey.github.io/reading-notes/revisionsinthecloud)
+    - [HTML basics](https://vadengrey.github.io/reading-notes/html)
+    - [Whats's CSS](https://vadengrey.github.io/reading-notes/designwithcss)
+    - [Intro into JS](https://vadengrey.github.io/reading-notes/introintojs)
+
+

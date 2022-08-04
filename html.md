@@ -28,5 +28,4 @@ start off with a wireframe design, draw what you want your website to look like 
 
 [W3schools](https://www.w3schools.com/tags/default.asp)<br>
 
-[Back to main page](https://vadengrey.github.io/reading-notes/)<br>
-[Back to Notes page](https://vadengrey.github.io/reading-notes/Notesource)
+[Back to main page](https://vadengrey.github.io/reading-notes/)

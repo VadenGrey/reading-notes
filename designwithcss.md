@@ -47,7 +47,5 @@ h1 {
 [W3schools](https://www.w3schools.com/cssref/default.asp) <br>
 [MDN](https://developer.mozilla.org/en-US/docs/Web/CSS/Reference)
 
-[Back to main page](https://vadengrey.github.io/reading-notes/) <br>
-[Back to Notes page](https://vadengrey.github.io/reading-notes/Notesource)
-
+[Back to main page](https://vadengrey.github.io/reading-notes/)
 
