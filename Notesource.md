@@ -6,6 +6,7 @@
     - [Revisions in the cloud](https://vadengrey.github.io/reading-notes/revisionsinthecloud)
     - [HTML basics](https://vadengrey.github.io/reading-notes/html)
     - [Whats's CSS](https://vadengrey.github.io/reading-notes/designwithcss)
+    - [Intro into JS](https://vadengrey.github.io/reading-notes/introintojs)
 
 
 
