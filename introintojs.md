@@ -91,3 +91,6 @@ this will output 55
 
 [MDN](https://developer.mozilla.org/en-US/docs/Web/JavaScript) <br>
 [Input and Output](https://code-maven.com/input-output-in-plain-javascript) 
+
+[Back to main page](https://vadengrey.github.io/reading-notes/) <br>
+[Back to Notes page](https://vadengrey.github.io/reading-notes/Notesource)
