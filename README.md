@@ -14,6 +14,6 @@ My name is _Mathieu Roberts_, I recently got out of the Army, currently residing
     - [HTML basics](https://vadengrey.github.io/reading-notes/html)
     - [Whats's CSS](https://vadengrey.github.io/reading-notes/designwithcss)
     - [Intro into JS](https://vadengrey.github.io/reading-notes/introintojs)
-    - [Programming with JS](https://vadengrey.github.io/reading-notes/programmingwithjs)
+    - [Programming with JS](https://vadengrey.github.io/reading-notes/programmingjs)
 
 
