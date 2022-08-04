@@ -1,7 +1,8 @@
 # Reading notes Repo
 My name is _Mathieu Roberts_, I recently got out of the Army, currently residing in KY, and my favorite color is Maroon
 
-[My github repo](https://vadengrey.github.io/reading-notes/)
+[My github repo](https://vadengrey.github.io/reading-notes/) <br>
+[My HTML site](https://vadengrey.github.io/html/)
 
 ## Notes from Code Fellows
 
