@@ -21,5 +21,5 @@ My name is _Mathieu Roberts_, I recently got out of the Army, currently residing
 - [Operators and Loops](https://vadengrey.github.io/reading-notes/opsnloops)
 
 ### **Class 201**
-- 
+- [Class 01](https://vadengrey.github.io/reading-notes/class-01)
 
