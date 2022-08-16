@@ -53,3 +53,5 @@ why isn't the script tag in HTML self closing
 
 
 *Some material copied from* [MDN](https://developer.mozilla.org/en-US/docs/Learn/Getting_started_with_the_web/How_the_Web_works)
+
+[Back to main page](https://vadengrey.github.io/reading-notes/)
