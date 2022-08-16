@@ -10,14 +10,15 @@ This reading assignment is important because it goes further into detail on the 
 **CSS**
 1. you can link a style sheet into html like:
 
-```
-<link ref="stylesheet" href="style.css">
-```
-or inline styling:
+    ```
+    <link ref="stylesheet" href="style.css">
+    ```
 
-```
-<p style="width: 50%; background-color: blue;"></p>
-```
+    or inline styling:
+
+    ```
+    <p style="width: 50%; background-color: blue;"></p>
+    ```
 
 2. makes the html structure look messy and more time consuming to read
 
@@ -32,8 +33,8 @@ or inline styling:
 
 1. An if statement checks a condition and if it evaluates to true, then the code block will execute.
 2. multiple choices or answers
-3. &&, "||", <,
-4. && checks if both conditions are true while "||" only checks if one is true
+3. &&, "or", <,
+4. && checks if both conditions are true while "or" only checks if one is true
 
 
 
