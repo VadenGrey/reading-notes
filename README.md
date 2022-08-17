@@ -23,3 +23,4 @@ My name is _Mathieu Roberts_, I recently got out of the Army, currently residing
 ### **Class 201**
 - [Class 01](https://vadengrey.github.io/reading-notes/class-01)
 - [Class 02](https://vadengrey.github.io/reading-notes/class-02)
+- [class 03](https://vadengrey.github.io/reading-notes/class-03)
