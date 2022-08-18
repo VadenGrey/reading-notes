@@ -36,7 +36,10 @@ This note section covers: HTML links, CSS positioning, and JS functions whichare
 1. A function declaration describes what the function does while invoking it cause that function to run
 2. A parameter is a named variable passed into a function while an argument is a value passed as input to a function.
 
+**Pair Programming**
 
+1. Greater efficiency, im all about efficiency and making things work the best way possible.
+    Work environment readiness, for me I want to begin working ASAP when im ready.
 
 ## Things I want to know more about
 
