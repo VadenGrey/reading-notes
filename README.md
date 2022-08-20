@@ -10,18 +10,19 @@ My name is _Mathieu Roberts_, I recently got out of the Army, currently residing
 
 ### **Class 102**
 
-- [Growth Mindset](https://vadengrey.github.io/reading-notes/growthmindset)
-- [Learning Markdown](https://vadengrey.github.io/reading-notes/102learning-markdown)
-- [IDE's and the Terminal](https://vadengrey.github.io/reading-notes/IDEs-and-the-Terminal)
-- [Revisions in the cloud](https://vadengrey.github.io/reading-notes/revisionsinthecloud)
-- [HTML basics](https://vadengrey.github.io/reading-notes/html)
-- [Whats's CSS](https://vadengrey.github.io/reading-notes/designwithcss)
-- [Intro into JS](https://vadengrey.github.io/reading-notes/introintojs)
-- [Programming with JS](https://vadengrey.github.io/reading-notes/programmingjs)
-- [Operators and Loops](https://vadengrey.github.io/reading-notes/opsnloops)
+- [Growth Mindset](https://vadengrey.github.io/reading-notes/Class102/growthmindset)
+- [Learning Markdown](https://vadengrey.github.io/reading-notes/Class102/102learning-markdown)
+- [IDE's and the Terminal](https://vadengrey.github.io/reading-notes/Class102/IDEs-and-the-Terminal)
+- [Revisions in the cloud](https://vadengrey.github.io/reading-notes/Class102/revisionsinthecloud)
+- [HTML basics](https://vadengrey.github.io/reading-notes/Class102/html)
+- [Whats's CSS](https://vadengrey.github.io/reading-notes/Class102/designwithcss)
+- [Intro into JS](https://vadengrey.github.io/reading-notes/Class102/introintojs)
+- [Programming with JS](https://vadengrey.github.io/reading-notes/Class102/programmingjs)
+- [Operators and Loops](https://vadengrey.github.io/reading-notes/Class102/opsnloops)
 
 ### **Class 201**
-- [Class 01](https://vadengrey.github.io/reading-notes/class-01)
-- [Class 02](https://vadengrey.github.io/reading-notes/class-02)
-- [class 03](https://vadengrey.github.io/reading-notes/class-03)
-- [class 04](https://vadengrey.github.io/reading-notes/class-04)
+- [Class 01](https://vadengrey.github.io/reading-notes/Class201/class-01)
+- [Class 02](https://vadengrey.github.io/reading-notes/Class201/class-02)
+- [Class 03](https://vadengrey.github.io/reading-notes/Class201/class-03)
+- [Class 04](https://vadengrey.github.io/reading-notes/Class201/class-04)
+- [Class 05](https://vadengrey.github.io/reading-notes/Class201/class-05)
