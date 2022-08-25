@@ -4,7 +4,7 @@
 1. it allows the user to interact with the company or collect data
 2. keep it short, dont want to annoy users with long forms
 3. 
-```HTML
+```
 <form></form> 
 <!-- defines a form and attributes that determine the form's behavior. -->
 <fieldset></fieldset>
