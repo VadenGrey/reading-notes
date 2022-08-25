@@ -1,5 +1,6 @@
 # Class 08
 These notes and references will be useful for making css layout faster and simpler
+
 **CSS-flexbox**
 1. it only deals with content in one diretion at a single time
 2. in terms of a graph the main axis would be x, while the cross axis would be y
