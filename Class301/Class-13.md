@@ -1,7 +1,7 @@
 # Class 13
 
 **CRUD Basics**
-1. update
+1. PUT or PATCH
 2. delete
 
 **Speed Coding: Building a CRUD API**
