@@ -52,6 +52,7 @@ My name is _Mathieu Roberts_, I recently got out of the Army, currently residing
 - [Class 12](https://vadengrey.github.io/reading-notes/Class301/Class-12)
 - [Class 13](https://vadengrey.github.io/reading-notes/Class301/Class-13)
 - [Class 14](https://vadengrey.github.io/reading-notes/Class301/Class-14)
+- [Class 15](https://vadengrey.github.io/reading-notes/Class301/Class-15)
 
 
 
