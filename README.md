@@ -61,6 +61,8 @@ My name is _Mathieu Roberts_, I recently got out of the Army, currently residing
 
 [Engineering Readings](https://vadengrey.github.io/reading-notes/Class401/Engineering)
 
+[Data Structures and Algorithms](https://vadengrey.github.io/reading-notes/Class401/DSAA)
+
 [Practice in the Terminal](https://vadengrey.github.io/reading-notes/Class401/terminal)
 - [Class 01](https://vadengrey.github.io/reading-notes/Class401/Class-01)
 
