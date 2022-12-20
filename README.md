@@ -59,6 +59,8 @@ My name is _Mathieu Roberts_, I recently got out of the Army, currently residing
 
 [Introduction to SQL](https://vadengrey.github.io/reading-notes/Class401/SQLintro)
 
+[Engineering Readings](https://vadengrey.github.io/reading-notes/Class401/Engineering)
+
 [Practice in the Terminal](https://vadengrey.github.io/reading-notes/Class401/terminal)
 - [Class 01](https://vadengrey.github.io/reading-notes/Class401/Class-01)
 
