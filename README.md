@@ -66,4 +66,11 @@ My name is _Mathieu Roberts_, I recently got out of the Army, currently residing
 [Practice in the Terminal](https://vadengrey.github.io/reading-notes/Class401/terminal)
 - [Class 01](https://vadengrey.github.io/reading-notes/Class401/Class-01)
 - [Class 02](https://vadengrey.github.io/reading-notes/Class401/Class-02)
+- [Class 03](https://vadengrey.github.io/reading-notes/Class401/Class-03)
+
+
+
+
+
+
 
